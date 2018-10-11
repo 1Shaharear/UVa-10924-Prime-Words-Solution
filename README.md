@@ -1,0 +1,1 @@
+# UVa-10924-Prime-Words-Solution
